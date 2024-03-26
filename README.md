@@ -1,4 +1,4 @@
-INstruções sobre a interface:
+Instruções sobre a interface:
  1. As marcações de estado final e estados iniciais devem ser feitos após definir as transições.
  2. Para definir a transição:
 	2.1. Digitar o símbolo de transição.
